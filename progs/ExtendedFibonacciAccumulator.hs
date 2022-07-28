@@ -11,6 +11,6 @@ fib' a b n | n == 0 = a
  -}
 fibonacci :: Integer -> Integer
 fibonacci n | n >= 0 = fib' 0 1 n
-          | otherwise = if odd n
-            then fib' 0 1 $ abs n
-            else - (fib' 0 1 $ abs n)
+            | otherwise = if odd n
+              then fib' 0 1 $ abs n
+              else - (fib' 0 1 $ abs n)
