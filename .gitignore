@@ -1,2 +1,5 @@
 super/
 *.js
+
+.idea/
+.vscode/
