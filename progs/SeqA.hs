@@ -19,4 +19,4 @@ seqA n
         else
             a2
     in seqA' 3 2 1 n
-  | otherwise = error "Number should be greater or equial to 0"
+  | otherwise = error "Number should be greater or equal to 0"
