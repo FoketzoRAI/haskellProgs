@@ -13,4 +13,4 @@ Haskell good for those, who try to understand the basis of functional programmin
 
 ## [Haskell Docs](https://hoogle.haskell.org/) for commands search
 
-![Lambda](progs/Orange_lambda.svg.png)
+![Lambda](Orange_lambda.svg.png)
